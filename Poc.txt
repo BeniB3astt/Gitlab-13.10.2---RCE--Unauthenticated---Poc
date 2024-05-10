@@ -1,4 +1,4 @@
-Despliegue de Contenedor:
+Despliegue de Contenedor en Docker:
 
 docker run --detach \
   --hostname gitlab.example.com \
