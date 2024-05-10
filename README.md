@@ -6,4 +6,4 @@ Cuando un usuario carga una imagen con cualquiera de las  extensiones jpeg/jpg/t
 
 Debido a una validación inadecuada, si un actor malicioso con acceso de red al puerto 443 pasa una imagen con la  anotación DjVu  que incluye metadatos maliciosos, puede ejecutar comandos arbitrarios en el servidor, bajo el  usuario git  .
 
-Para replicar este escenenario y visualizar la vulnerabilidad, replicar los comandos proporcionados en el Poc.txt
+Para replicar este escenario y visualizar la vulnerabilidad, replicar los comandos proporcionados en el Poc.txt
